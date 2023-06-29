@@ -1,0 +1,36 @@
+1) Faça um pseudocódigo que armazene os valores aleatórios de 1 a 9 em uma matriz de 3x3 
+e apresente a soma desses valores.
+
+2) Faça um pseudocódigo que armazene os valores aleatórios de 1 a 9 em uma matriz de 5x5
+e apresente a soma dos valores de cada linha da matriz.
+
+3) Faça um pseudocódigo que armazene os valores aleatórios, sem repetição, em uma matriz 
+de 6x3 e apresente a soma dos valores de cada coluna da matriz.
+
+4) Faça um pseudocódigo que preencha uma matriz de 6 x 4 com valores inteiros positivos e 
+armazene esses valores em um vetor.
+
+5) Faça um pseudocódigo que preencha um vetor de 30 posições com valores quaisquer e 
+armazene esses valores em uma matriz de 5x6.
+
+6) Faça um pseudocódigo que preencha uma matriz 5x4 com valores quaisquer sem repetição 
+e ordena de forma crescente cada linha da estrutura.
+
+7) Faça um pseudocódigo que preencha uma matriz 5x4 com valores quaisquer e ordena de 
+forma decrescente cada coluna da estrutura.
+
+8) Faça um pseudocódigo que preencha uma matriz 6x4 com valores inteiros positivos e 
+ordene toda de forma crescente toda a estrutura.
+
+9) O triângulo de Pascal é um triângulo aritmético infinito onde todo número que faz parte do 
+triângulo é um resultado da soma do número que está na linha imediatamente acima e o 
+antecessor dele. Começa com o número 1 e cada linha tem a quantidade de números
+designados pela posição de sua linha, assim linha 1 tem 1 número, linha 2, 2 números e 
+assim por diante. Faça um pseudocódigo em Visualg que apresente um triângulo de Pascal 
+de dimensão de n linhas indicada pelo usuário.
+        1
+        1  1
+        1  2  1
+        1  3  3  1 
+        1  4  6  4  1
+        1  5  10 10 5  1
