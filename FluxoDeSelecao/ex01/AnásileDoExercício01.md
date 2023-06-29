@@ -5,11 +5,11 @@
 - ENTRADA <br>
   9 números de 1 a 9
 
-- SAÍDA
+- SAÍDA <br>
   A impressão do vetor com os elementos 
 
-- RESTRIÇÕES
+- RESTRIÇÕES <br<
   Apenas valores entre 1 e 9
 
-ENTRADA        |    SAÍDA
+ENTRADA        |    SAÍDA <br>
 1,2,4,5,4,7    |    1,2,4,5,4,7
