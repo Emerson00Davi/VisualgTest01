@@ -1,6 +1,6 @@
 //O código apresenta um algoritmo de leitura de dados em uma estrutura de vetor e em seguida escreve no console os dados inseridos.
 //QUESTAO: Faça um pseudocódigo que armazene os valores aleatórios de 1 a 9 em uma matriz de 3x3 
-//e apresente a soma desses valores.
+//e apresente a soma desses valores..
 Algoritmo "q1"
 
 const
