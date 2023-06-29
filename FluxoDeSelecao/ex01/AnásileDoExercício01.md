@@ -2,7 +2,7 @@
 
 1) Faça um pseudocódigo que preencha um vetor 3x3 com valores aleatórios de 1 a 9
 
-- ENTRADA 
+- ENTRADA <br>
   9 números de 1 a 9
 
 - SAÍDA
