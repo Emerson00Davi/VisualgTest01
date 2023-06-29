@@ -8,8 +8,9 @@
 - SAÍDA <br>
   A impressão do vetor com os elementos 
 
-- RESTRIÇÕES <br<
+- RESTRIÇÕES <br>
   Apenas valores entre 1 e 9
 
-ENTRADA        |    SAÍDA <br>
-1,2,4,5,4,7    |    1,2,4,5,4,7
+| ENTRADA        |    SAÍDA <br> |
+|----------------| --------------|
+|1,2,4,5,4,7     |   1,2,4,5,4,7 |
