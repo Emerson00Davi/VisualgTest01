@@ -23,34 +23,34 @@ const
    k=3
 
 Var
-   m : vetor [1..k,1..k] de real
-   x,y: inteiro
-   s: real
+   m : vetor [1..k,1..k] de real <br>
+   x,y: inteiro <br>
+   s: real <br>
 
-Inicio
-   s <- 0
-   aleatorio 1,9
-   para x de 1 ate k faca
-      para y de 1 ate k faca
-         leia(m[x,y])
-         enquanto ( ( m[x,y] < 1 ) ou ( m[x,y] > 9 )) faca
-            leia(m[x,y])
-         fimenquanto
-         s <- s + m[x,y]
-      fimpara
-   fimpara
-   aleatorio off
-   escreval
+Inicio <br>
+   s <- 0 <br>
+   aleatorio 1,9 <br>
+   para x de 1 ate k faca <br>
+      para y de 1 ate k faca <br>
+         leia(m[x,y]) <br>
+         enquanto ( ( m[x,y] < 1 ) ou ( m[x,y] > 9 )) faca <br>
+            leia(m[x,y]) <br>
+         fimenquanto<br>
+         s <- s + m[x,y] <br>
+      fimpara<br>
+   fimpara<br>
+   aleatorio off <br>
+   escreval <br>
    
-   para x de 1 ate k faca
-      para y de 1 ate k faca
-         escreva(m[x,y]:3)
-      fimpara
-      escreval
-   fimpara
-   escreval
+   para x de 1 ate k faca <br>
+      para y de 1 ate k faca <br>
+         escreva(m[x,y]:3) <br>
+      fimpara <br>
+      escreval <br>
+   fimpara <br>
+   escreval <br>
    
-   escreva("A soma é: ", s)
+   escreva("A soma é: ", s) <br>
    
 
          
